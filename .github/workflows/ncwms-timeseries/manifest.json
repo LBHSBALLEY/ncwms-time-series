@@ -1,0 +1,24 @@
+{
+  "name": "ncwms-timeseries",
+  "label": "Séries temporelles ncWMS ",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.14.*",
+  "author": "Sandrine Balley",
+  "description": "Affiche des graphes de séries temporelles depuis ncWMS/Geoserver",
+  "copyright": "",
+  "license": "",
+  "properties": {
+    "hasConfig": true
+  },
+  "translatedLocales": [
+    "fr"
+  ],
+  "defaultSize": {
+    "width": 800,
+    "height": 500
+  },
+  "dependency": [
+    "jimu-arcgis"
+  ]
+}

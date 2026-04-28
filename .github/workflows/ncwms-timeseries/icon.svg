@@ -1,0 +1,15 @@
+<svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+  <!-- Montre (ajustée pour ne plus être coupée) -->
+  <circle cx="10" cy="4.8" r="4.2" fill="none" stroke="#ffffff" stroke-width="1"/>
+
+  <!-- Aiguille des minutes -->
+  <line x1="10" y1="4.8" x2="10" y2="1" stroke="#ffffff" stroke-width="1" stroke-linecap="round"/>
+
+  <!-- Aiguille des heures (courte, vers 4h) -->
+  <line x1="10" y1="4.8" x2="11.7" y2="6.2" stroke="#ffffff" stroke-width="1" stroke-linecap="round"/>
+
+  <!-- Graphe -->
+  <polyline points="0.5,15.5 4.5,15.5 7.5,19 11,12 14,15.5 19.5,15.5"
+            fill="none" stroke="#ffffff" stroke-width="1"
+            stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
