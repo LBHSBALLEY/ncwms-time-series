@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "exbVersion": "1.14.*",
   "author": "Sandrine Balley",
-  "description": "Affiche des graphes de séries temporelles depuis ncWMS/Geoserver",
+  "description": "Affiche des graphes de séries temporelles depuis un serveur ncWMS",
   "copyright": "",
   "license": "",
   "properties": {
